@@ -22,8 +22,8 @@ A **Java Swing-based desktop application** that allows users to:
   Option to automatically regenerate password every 30 seconds.
 
 ## 📂 Project Structure
-PasswordGeneratorSwing.java
-README.md
+- PasswordGeneratorSwing.java
+- README.md
 
 ## 🛠️ Requirements
 - **Java JDK 17+** (or compatible version)
